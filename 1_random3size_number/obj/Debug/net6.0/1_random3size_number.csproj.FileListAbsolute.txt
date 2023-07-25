@@ -1,0 +1,15 @@
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\bin\Debug\net6.0\1_random3size_number.exe
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\bin\Debug\net6.0\1_random3size_number.deps.json
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\bin\Debug\net6.0\1_random3size_number.runtimeconfig.json
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\bin\Debug\net6.0\1_random3size_number.dll
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\bin\Debug\net6.0\1_random3size_number.pdb
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\obj\Debug\net6.0\1_random3size_number.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\obj\Debug\net6.0\1_random3size_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\obj\Debug\net6.0\1_random3size_number.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\obj\Debug\net6.0\1_random3size_number.AssemblyInfo.cs
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\obj\Debug\net6.0\1_random3size_number.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\obj\Debug\net6.0\1_random3size_number.dll
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\obj\Debug\net6.0\refint\1_random3size_number.dll
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\obj\Debug\net6.0\1_random3size_number.pdb
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\obj\Debug\net6.0\1_random3size_number.genruntimeconfig.cache
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\Seminar 2\1_random3size_number\obj\Debug\net6.0\ref\1_random3size_number.dll
