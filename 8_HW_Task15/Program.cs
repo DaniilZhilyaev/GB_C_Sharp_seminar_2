@@ -8,4 +8,4 @@ int number = int.Parse(Console.ReadLine()!);
 
 if (number > 0 && number < 6) Console.WriteLine("Будний день");
 if (number > 5 && number < 8) Console.WriteLine("Выходной");
-if (number < 1 || number > 7) Console.WriteLine("Некорректный номер дня недели");
+if (number < 1 && number > 7) Console.WriteLine("Некорректный номер дня недели");
