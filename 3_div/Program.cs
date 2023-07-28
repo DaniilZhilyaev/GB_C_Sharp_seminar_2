@@ -8,11 +8,6 @@ int number1 = int.Parse(Console.ReadLine()!);
 Console.Write("Введите второе  число: ");
 int number2 = int.Parse(Console.ReadLine()!);
 
-// Console.WriteLine(n);
-// int res = ((n - n % 100) / 100) + n % 10;
-// Console.Write((n - n % 100) / 100);
-// Console.WriteLine(n % 10);
-
 if(number1 % number2 == 0)
 {
     Console.WriteLine($"Число {number1} кратно {number2}");

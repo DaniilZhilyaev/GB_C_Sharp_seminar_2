@@ -7,10 +7,6 @@
 Console.Write("Введите число: ");
 int number1 = int.Parse(Console.ReadLine()!);
 
-// Console.WriteLine(n);
-// int res = ((n - n % 100) / 100) + n % 10;
-// Console.Write((n - n % 100) / 100);
-// Console.WriteLine(n % 10);
 
 if (number1 % 7 == 0 && number1 % 23 == 0)
 {
